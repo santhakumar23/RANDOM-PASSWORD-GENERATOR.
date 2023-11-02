@@ -1,5 +1,5 @@
 import random
-print("werlcome to the password generator!")
+print("welcome to the password generator!")
 randomchars="abcdefghijklmnopqrstuvwxuyzABCDEFGHIJKLNMOPQRSTUVWXYZ1234567890*/-*&^$"
 numberofpassword=int(input("Enter the number of password to be generator : "))
 passwordlength=int(input("plese entert the length of the password needed:"))
